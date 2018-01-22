@@ -4,7 +4,7 @@
 
 I'm an Interactive Art & Science student at Brock University.
 
-![](images/space.png)
+![](Images/space.png)
 
 # Blog post
 
