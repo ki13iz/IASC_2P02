@@ -8,4 +8,4 @@ I'm an Interactive Arts & Science student at Brock University.
 
 # Blog post
 
-First sentence of blog post goes here
+First sentence of blog post goes here :
