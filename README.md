@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm an Interactive Art & Science student at Brock University.
+I'm an Interactive Arts & Science student at Brock University.
 
 ![](Images/space.png)
 
