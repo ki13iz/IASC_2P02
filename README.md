@@ -8,4 +8,4 @@ I'm an Interactive Arts & Science student at Brock University.
 
 # Blog post
 
-First sentence of blog post goes here : [continue reading](blog) 
+Drucker blog post : [click here to learn more about a Humanities Approach to Graphical Display](blog) 
