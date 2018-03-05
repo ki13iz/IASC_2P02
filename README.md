@@ -11,4 +11,4 @@ For the future, I aspire to be a content creator in digital media.
 
 # Blog post
 
-Drucker blog post : [click here to learn more about a Humanities Approach to Graphical Display](blog.md) 
+Drucker blog post : [click here to learn more about a Humanities Approach to Graphical Display](publishblogpost.md) 
