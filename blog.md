@@ -15,7 +15,7 @@ An interesting resource which exemplifies what Drucker is addressing in her read
 
 Sources
 
-[](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) 
+[](http://www.digitalhumanities.org/dhq/) 
 
 [](http://shc.stanford.edu/collaborations/supported-projects/mapping -republic-letters) 
 
