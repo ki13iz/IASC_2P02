@@ -3,6 +3,8 @@
 ## About me
 
 I'm an Interactive Arts & Science student at Brock University.
+In my free time, I enjoy taking pictures, making music, and watching movies. 
+
 
 ![](Images/space.png)
 
