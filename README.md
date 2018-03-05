@@ -4,6 +4,7 @@
 
 I'm an Interactive Arts & Science student at Brock University.
 In my free time, I enjoy taking pictures, making music, and watching movies. 
+For the future, I aspire to be a content creator in digital media.
 
 
 ![](Images/space.png)
