@@ -10,6 +10,6 @@ In Johanna Drucker’s article tiled “Humanities Approach to Graphical Display
 An interesting resource which exemplifies what Drucker is addressing in her readings is a study done in the late 17th and 18th century called ‘Republic of Letters’. Comprising over 55,000 letters hosted by Stanford University, this project combines computer technology and geographical imaging to illustrate and map the complexity of international network and flow of information between intellectuals through correspondence. This simply allows scholars to make sense of large sets of historical data or capta and view patterns that would normally be difficult to explore. To achieve so, the developers used a metadata table from their database called Electronic Enlightenment which combines spatial, nominal, and temporal attributes. “Humanistic theory provides ways of thinking differently, otherwise, specific to the problems and precepts of interpretative knowing—partial, situated, enunciative, subjective, and performative” – (Drucker, J., Humanistic Theory & Digital Scholarship. 2012). With that being said, I strongly believe that a lot of the information we consume from graphical expression can really alter general perception of qualitative and quantitative findings, allowing space and time for more relevance towards a humanistic interpretation. 
 
 
-<iframe style='width: 477px; height: 402px;' src='//voyant-tools.org/tool/Cirrus/?visible=55&corpus=0962d185db8935de5de89d64fe340572'></iframe>
+
 
 ![](images/visual.png)
