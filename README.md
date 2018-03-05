@@ -8,4 +8,4 @@ I'm an Interactive Arts & Science student at Brock University.
 
 # Blog post
 
-Drucker blog post : [click here to learn more about a Humanities Approach to Graphical Display](blog) 
+Drucker blog post : [click here to learn more about a Humanities Approach to Graphical Display](blog.md) 
