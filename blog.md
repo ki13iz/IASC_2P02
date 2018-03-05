@@ -15,5 +15,7 @@ An interesting resource which exemplifies what Drucker is addressing in her read
 
 Sources
 [Link Text](Humanities Approaches to Graphical Display) 
+
 [Link Text]( http://shc.stanford.edu/collaborations/supported-projects/mapping -republic-letters) 
+
 [Link Text](http://dhdebates.gc.cuny.edu/debates/text/34) 
