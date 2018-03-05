@@ -14,8 +14,9 @@ An interesting resource which exemplifies what Drucker is addressing in her read
 
 
 Sources
-[Drucker,Johanna.2011](Humanities Approaches to Graphical Display) 
 
-[Link Text]( http://shc.stanford.edu/collaborations/supported-projects/mapping -republic-letters) 
+[](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) 
 
-[Link Text](http://dhdebates.gc.cuny.edu/debates/text/34) 
+[](http://shc.stanford.edu/collaborations/supported-projects/mapping -republic-letters) 
+
+[](http://dhdebates.gc.cuny.edu/debates/text/34) 
