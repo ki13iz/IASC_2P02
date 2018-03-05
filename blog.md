@@ -13,11 +13,12 @@ An interesting resource which exemplifies what Drucker is addressing in her read
 ![](Images/voyantpost.PNG) 
 
 
-Sources
+Works Cited
 
-[](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) 
+Drucker, J.2011. "Humanistic Approaches to Grahpical Display" 
 
-[](http://shc.stanford.edu/collaborations/supported-projects/mapping -republic-letters) 
+Drucker, J.2012. "Humanistic Theory and Digital Scholarship"
 
-[](http://dhdebates.gc.cuny.edu/debates/text/34) 
+Coleman, N.2013. "Mapping the Repulic of Letters". Standford University.
+
 
