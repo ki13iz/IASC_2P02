@@ -12,4 +12,4 @@ An interesting resource which exemplifies what Drucker is addressing in her read
 
 
 
-![](images/voyantpost.png) 
+![](Images/voyantpost.PNG) 
