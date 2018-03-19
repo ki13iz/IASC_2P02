@@ -12,3 +12,7 @@ For the future, I aspire to be a content creator in digital media.
 # Blog post
 
 Drucker blog post : [click here to learn more about a Humanities Approach to Graphical Display](publishblogpost.md) 
+
+## Solo presentation
+
+[click here](https://iascatbrock.github.io/IASC-2P02/reveal/index.html)
