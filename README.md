@@ -15,4 +15,4 @@ Drucker blog post : [click here to learn more about a Humanities Approach to Gra
 
 ## Solo presentation
 
-[click here](https://iascatbrock.github.io/IASC-2P02/reveal2/index.html)
+[click here](https://iascatbrock.github.io/IASC-2P02/Reveal2/index.html)
