@@ -3,8 +3,8 @@
 ## Bio.
 
 I'm a second year Interactive Arts & Science student at Brock University.
-My specific research area of interest is the digital expression field associated with foundations towards media and art curation, which I wish to specialize in "the gap in between what I have learned from the digital aspect of humanities with the visual components from art electives".In my free time, I enjoy taking pictures, making music, and watching movies. 
-For the future, I aspire to be a content creator in digital media.
+My specific research area of interest is the digital expression field associated with foundations towards media and art curation, which I wish to specialize in "the gap in between what I have learned from the digital aspect of humanities with the visual components from art electives". In my free time, I enjoy taking pictures, editing videos, producing music, and watching movies. 
+For the future, I aspire to be a content creator in digital media. 
 
 
 ![](Images/space.png)
@@ -24,7 +24,7 @@ Overall these changes show x and y changes in my thinking.
 
 Read [Title goes here](readme)
 
-## Colaborative Project
+## Colaborative Project [Title of project here]
 
 Here is my 100-word project description.
 
@@ -34,10 +34,10 @@ I also contributed x assetes to my team, seen below.
 
 ![](images/collaboration.jpg)
 
-# Research Presentation
+# Research Presentation [Title of project here]
 
 Drucker blog post : [click here to learn more about a Humanities Approach to Graphical Display](publishblogpost.md) 
 
-## Academic blog
+## Academic blog [Title of project here]
 
 [click here](https://iascatbrock.github.io/IASC-2P02/reveal/index.html)
