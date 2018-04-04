@@ -3,7 +3,7 @@
 ## Bio.
 
 I'm a second year Interactive Arts & Science student at Brock University.
-In my free time, I enjoy taking pictures, making music, and watching movies. 
+My specific research area of interest is the digital expression field associated with foundations towards media and art curation, which I wish to specialize in "the gap in between what I have learned from the digital aspect of humanities with the visual components from art electives".In my free time, I enjoy taking pictures, making music, and watching movies. 
 For the future, I aspire to be a content creator in digital media.
 
 
