@@ -2,9 +2,8 @@
 
 ## Bio.
 
-I'm a second year Interactive Arts & Science student at Brock University.
-My specific research area of interest is the digital expression field associated with foundations towards media and art curation, which I wish to specialize in "the gap in between what I have learned from the digital aspect of humanities with the visual components from art electives". In my free time, I enjoy taking pictures, editing videos, producing music, and watching movies. 
-For the future, I aspire to be a content creator in digital media. 
+I'm currnetly a second year student at Brock University majoring in Interactive Arts & Science.
+My specific research area of interest is the digital expression field associated with foundations towards media and art curation, which I wish to specialize in "the gap in between what I have learned from the digital aspect of humanities with the visual components from art electives". In the blend of this concentration, I'd say media transformations alongside the issues that revolve in the digital humanities are two of the very few areas that really captivate me and allow honest and flexible contribution. In my free time outside lectures, I enjoy taking pictures, editing videos, producing music, and watching movies. These culterd elements of design and media really help develop a better sense of where I aim on taking things in the future. Every now and then, I grasp whatever material that was taught from the courses I'm enrolled in and apply them to ideas and concepts that already intrigue me. Essentially, Multimedia Design is where I see potential as a career choice given what I already know about digital curation of content and how technology aligns with the way we interact with it. The work displayed below are prominent examples of the highlight in which my specialization is involved.
 
 
 ![](Images/space.png)
