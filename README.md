@@ -10,7 +10,7 @@ My specific research area of interest is the digital expression field associated
 
 ## Featured Project: [BETAMAX]
 
-![](Images/BETA2.jpg)
+![](Images/BETA2.png)
 
 Here are 250 words introducing this work.
 
