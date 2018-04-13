@@ -8,7 +8,7 @@ My specific research area of interest is the digital expression field associated
 
 ![](Images/space.png)
 
-## Featured Project: [Title of project here]
+## Featured Project: [BETAMAX]
 
 ![](images/.jpg)
 
