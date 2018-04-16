@@ -23,7 +23,7 @@ I also made these changes, which you can see [here]
 I also made these changes, which you can see [here]
 Overall these changes show x and y changes in my thinking. 
 
-Read [Title goes here](readme)
+Read [Title goes here](https://ki13iz.github.io/IASC_2P02/Reveal/index.html)
 
 ## Colaborative Project [Title of project here]
 
