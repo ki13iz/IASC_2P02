@@ -27,7 +27,7 @@ For the collaborative portion of this course, my group members and I focused on 
 
 With this project, collaborative scholarship was achieved by being able to share different contributions and viewpoints to general topic discussion using Google Docs. This made each of our individual parts much more easy and accountable with given timeframe for project completion. In addition to project contribution, a lot of scheduled work time in the Brock library was also attained as we were able to help each other progress towards a means of comprehension and targeted goals. Collaborative research for the digital humanities is a key attribute to my learning as I’m able to attain more general knowledge and make better use of my time. In my portion of this collaborative project, I focused on ways in which Google Arts & Culture as a digital medium can be explored given its highlighted feature content: Art Camera, 360 videos, along with street view. Located [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/ea60634f2676934e3736e6445c254623c298f507) are notes that I have made to keep on track with my target discussion and points of reference. 
 
-![](Images/vangogh.png)
+![](Images/vangogh.PNG)
 
 # Research Presentation: Betamax
 
