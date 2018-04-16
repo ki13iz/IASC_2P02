@@ -33,7 +33,7 @@ I also contributed x assetes to my team, seen below.
 
 # Research Presentation: Betamax
 
-[click here]((https://ki13iz.github.io/IASC_2P02/Reveal/index.html)
+[click here](https://ki13iz.github.io/IASC_2P02/Reveal/index.html)
 
 
 ## Academic blog: Drucker Blog Post
