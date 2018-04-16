@@ -31,10 +31,11 @@ I also contributed x assetes to my team, seen below.
 
 ![](images/collaboration.jpg)
 
-# Research Presentation [Title of project here]
+# Research Presentation: Betamax
 
-Drucker blog post : [click here to learn more about a Humanities Approach to Graphical Display](publishblogpost.md) 
+[click here]((https://ki13iz.github.io/IASC_2P02/Reveal/index.html)
 
-## Academic blog [Title of project here]
 
-[click here](https://iascatbrock.github.io/IASC-2P02/reveal/index.html)
+## Academic blog: Drucker Blog Post
+
+: [click here to learn more about a Humanities Approach to Graphical Display](publishblogpost.md) 
