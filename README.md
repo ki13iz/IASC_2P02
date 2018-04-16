@@ -21,9 +21,9 @@ where I address digital mediums on a general spectrum in accordance to most comm
 
 Read [Betamax: You Are the Controller and Preserver of Time ](https://ki13iz.github.io/IASC_2P02/Reveal/index.html)
 
-## Colaborative Project [Serendip-o-matic/Google Arts & Culture]
+## Colaborative Project: Serendip-o-matic/Google Arts & Culture
 
-Here is my 100-word project description.
+For the collaborative portion of this course, my group members and I focused on two digital humanities tools: Serendip-o-matic and Google Arts & Culture. Serendip-o-matic is a platform that connects one’s sources to digital archives, libraries, materials, and museums around the world we live in. This source helps organize and discover newer sources that at times appear out of reach. Google Arts & Culture is platform designed as a digital museum where one can find, research, and educate themselves with everything regarding the literature, historical facts, locations, and means behind all arts and culture to ever exist. 
 
 Here is my 250-word collaboration statement. I approach collaboration in x ways, which is reflected in y work (available [here]
 I also approach collaboration in ways, which is reflected in b work (available [here]
